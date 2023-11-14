@@ -1,7 +1,7 @@
 "use strict";
 console.log("contacts.js file was loaded");
 
-const content = document.querySelector("#content");
+const content = document.querySelector(".content");
 
 const shopsWrapper = document.createElement("div");
 shopsWrapper.classList.add("shops-wrapper");
